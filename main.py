@@ -19,6 +19,8 @@ precio = soup.find("span", attrs={"class": "price-tag-fraction"}).get_text()
 print(precio)
 
 
+
+
 ## Objetivo 1: Extraer UF, M2, N° dormitorios de publicaciones primera pagina
 
 ## Objetivo 2: Extraer los mismos datos pero iterando por todas las paginas
