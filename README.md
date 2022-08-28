@@ -7,8 +7,9 @@ Proyecto permite extraer todos los sismos en un rango de fechas determinado. Ext
 - Latitud
 - Longitud
 
-Preview
-![gif](https://user-images.githubusercontent.com/76022147/187055252-849ec7a6-c30a-409c-96a7-60e621a0ba8d.gif)
+# Preview
+
+![gif](https://user-images.githubusercontent.com/76022147/187055312-c7d792e6-f449-480c-9bef-eb560fe1596a.gif)
 
 Toda la informacion se almacena en la 📂 "data"
 
