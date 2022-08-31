@@ -3,7 +3,7 @@
 name: Sismos
 on:
   schedule:
-  - cron: "0 1 * * *"
+  - cron: "0 9 * * *"
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
