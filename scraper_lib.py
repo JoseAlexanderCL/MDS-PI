@@ -37,7 +37,7 @@ def get_source(fecha):
     url = 'https://www.sismologia.cl/sismicidad/catalogo/'+fecha_data.strftime('%Y/%m/%Y%m%d')+'.html'
     print("Ruta_log: ",url)
     ssm = requests.get(url)
-    s = BeautifulSoup(ssm.text, 'lxml').find_all('tr')
+    s = BeautifulSoup(ssm.text, 'html.parser').find_all('tr')
     return s
 
 def process_data(df):
