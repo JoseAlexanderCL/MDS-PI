@@ -22,6 +22,12 @@ jobs:
         run: |
             pip install -r requirements.txt
             python scraper_diario.py
+            
+      - name: transform_load
+        run: |
+            pip install -r requirements.txt
+            python transform_load.py
+      
       - name: Commit data files
         run: |
           pwd
