@@ -21,7 +21,7 @@ jobs:
       - name: Install Python dependencies
         run: |
             pip install -r requirements.txt
-            python scraper_diario.py
+            python scraper.py
             
       - name: transform_load
         run: |
