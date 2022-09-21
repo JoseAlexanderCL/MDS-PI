@@ -12,7 +12,7 @@ import pandas as pd
 
 
 # Carpeta con la data
-path = "./data"
+path = "./output"
 
 # extension a detectar
 extension = '.csv'
