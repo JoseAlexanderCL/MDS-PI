@@ -1,0 +1,10 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+33 km al SO de Mina Collahuasi,-21.099 ,-68.782,2022-10-30,20:12:22,2022-10-30,23:12:22,116,km,2.5,Ml
+37 km al SO de La Ligua,-32.626 ,-71.568,2022-10-30,19:57:14,2022-10-30,22:57:14,45,km,2.6,Ml
+24 km al E de Calama,-22.517 ,-68.706,2022-10-30,19:43:12,2022-10-30,22:43:12,115,km,3.0,Ml
+45 km al SO de Mina Collahuasi,-21.115 ,-68.967,2022-10-30,16:14:56,2022-10-30,19:14:56,107,km,2.6,Ml
+8 km al SE de Canela Baja,-31.447 ,-71.402,2022-10-30,10:38:50,2022-10-30,13:38:50,78,km,3.0,Ml
+52 km al NE de Calama,-22.040 ,-68.739,2022-10-30,08:05:38,2022-10-30,11:05:38,112,km,2.8,Ml
+37 km al SO de OllagÃ¼e,-21.488 ,-68.465,2022-10-30,05:13:32,2022-10-30,08:13:32,130,km,2.8,Ml
+69 km al N de Calama,-21.882 ,-68.730,2022-10-30,02:22:32,2022-10-30,05:22:32,118,km,2.7,Ml
+46 km al SO de Mina Collahuasi,-21.157 ,-68.932,2022-10-29,22:19:09,2022-10-30,01:19:09,112,km,3.2,Ml
