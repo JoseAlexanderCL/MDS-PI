@@ -1,0 +1,10 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+43 km al NE de CamiÃ±a,-19.028 ,-69.146,2023-01-28,16:44:31,2023-01-28,19:44:31,115,km,2.9,Ml
+27 km al O de La Serena,-29.820 ,-71.520,2023-01-28,15:49:55,2023-01-28,18:49:55,39,km,3.0,Ml
+79 km al NE de Socaire,-23.059 ,-67.376,2023-01-28,12:37:48,2023-01-28,15:37:48,269,km,3.1,Ml
+11 km al NO de Andacollo,-30.155 ,-71.157,2023-01-28,12:31:15,2023-01-28,15:31:15,80,km,3.9,Ml
+52 km al SO de Mina Collahuasi,-21.253 ,-68.855,2023-01-28,08:01:02,2023-01-28,11:01:02,117,km,3.2,Ml
+27 km al E de Sierra Gorda.,-22.904 ,-69.055,2023-01-28,07:50:32,2023-01-28,10:50:32,105,km,3.3,Ml
+43 km al SO de Mina Collahuasi,-21.118 ,-68.937,2023-01-28,07:10:19,2023-01-28,10:10:19,110,km,2.6,Ml
+45 km al SO de Mina Collahuasi,-21.160 ,-68.904,2023-01-28,02:00:42,2023-01-28,05:00:42,112,km,2.9,Ml
+33 km al NE de Calama,-22.251 ,-68.720,2023-01-28,00:42:31,2023-01-28,03:42:31,115,km,2.6,Ml
